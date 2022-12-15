@@ -1,4 +1,4 @@
-# My Favorites Gifs
+# 🕊 My Spirit Gifs
 
 
 <p align="center">
