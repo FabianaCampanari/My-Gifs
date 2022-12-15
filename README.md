@@ -1,4 +1,4 @@
-# 🕊 My Spirit Gifs
+# 🕊 My Soul's Gifs
 
 
 <p align="center">
