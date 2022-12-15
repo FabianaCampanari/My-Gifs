@@ -6,11 +6,9 @@
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/113218619/207937135-6c084c89-49ac-40ee-a043-5c6811e1f456.gif" />
-</p>
-
-
-<p align="center">
   <img src="https://user-images.githubusercontent.com/113218619/207937760-d12bbb0d-dd6e-4959-87b5-51e6d916c1ca.gif" />
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/113218619/207937135-6c084c89-49ac-40ee-a043-5c6811e1f456.gif" />
+</p>
