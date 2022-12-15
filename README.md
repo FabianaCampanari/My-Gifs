@@ -1,2 +1,2 @@
-# My-Gifs
-My Favorites Gifs
+# My Favorites Gifs
+
