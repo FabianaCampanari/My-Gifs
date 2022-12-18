@@ -1,4 +1,6 @@
-# 🕊 My Soul's Gifs
+# 🕊 My Soul's Collection Gifs
+
+< choosed with love & joy /> 🤎
 
 
 <p align="center">
