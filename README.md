@@ -1,6 +1,6 @@
 # <p align="center"> 🕊 My Soul's Collection Gifs </p>
 
- < choosen with love & joy /> 🤎
+<p align="center">  < choosen with love & joy /> 🤎 </p>
 
 
 <p align="center">
