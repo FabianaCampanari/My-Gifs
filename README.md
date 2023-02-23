@@ -88,8 +88,7 @@
 #
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/113218619/221004682-b8992a39-b0b4-468b-97e9-d23beadce469.mov"
-<img src="/>
+<img src="https://user-images.githubusercontent.com/113218619/221004682-b8992a39-b0b4-468b-97e9-d23beadce469.mov" />
 
 #
 
