@@ -107,6 +107,6 @@
 
 #
 
-⚖︎ ⚖︎ This project is licensed under the Unlicense License.
+ ⚖︎ This project is licensed under the Unlicense License.
 
 
